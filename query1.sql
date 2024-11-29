@@ -1,3 +1,9 @@
+
+# Use W3 tutorial
+https://www.w3schools.com/sql/default.asp
+
+# Use chatGTP to find the difference of mysql and postgres sql
+
 select * from categories;
 
 select * from customer_customer_demo;
@@ -25,3 +31,5 @@ select * from suppliers;
 select * from territories;
 
 select * from us_states;
+
+
